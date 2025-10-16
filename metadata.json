@@ -1,0 +1,26 @@
+{
+  "project_name": "نماذج GPT",
+  "model_role": "وكيل ذكاء صناعي يصنع مواقع احترافية تلقائياً",
+  "version": "1.0.0",
+  "build": "20251016-2230",
+  "author": "Badr (BZERO)",
+  "license": "Proprietary - All Rights Reserved",
+  "branding": {
+    "theme": "Modern Dark",
+    "primary_color": "#0F172A",
+    "accent_color": "#10B981",
+    "text_color": "#E5E7EB",
+    "muted_color": "#9CA3AF",
+    "font_family": "Inter, system-ui, sans-serif"
+  },
+  "files": {
+    "entry": "src/index.html",
+    "styles": "src/style.css",
+    "script": "src/main.js"
+  },
+  "release_notes": "الإصدار الأول — إنشاء الهيكل، الحقوق، واجهة داكنة، وإعداد SemVer.",
+  "links": {
+    "repo": "",
+    "preview": ""
+  }
+}
